@@ -1,6 +1,6 @@
 Kendime ait çeviri sitesinde kullandığım dil veritabanlarını işine yarayabilecek arkadaşlar için paylaşıyorum.
 
-Almanca Türkçe Veritabanı
+Almanca Türkçe Veritabanı<br/>
 İngilizce Türkçe Veritabanı
 İspanyolca Türkçe Veritabanı
 İtalyanca Türkçe Veritabanı
